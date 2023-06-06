@@ -21,4 +21,5 @@ public class ClientDetails {
 
     @SerializedName("user_agent")
     private String userAgent;
+
 }

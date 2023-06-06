@@ -98,7 +98,7 @@
 //            "source_name": "web",
 //            "source_url": null,
 //            "subtotal_price": "12.00",
-//            "subtotal_price_set": {
+//            "subtotal_price_set": {                     ss
 //        "shop_money": {
 //            "amount": "12.00",
 //                    "currency_code": "USD"
@@ -107,13 +107,13 @@
 //            "amount": "12.00",
 //                    "currency_code": "USD"
 //        }
-//    },
+//    },                                                  ss
 //            "tags": "residential_address, UPS Ground",
 //            "taxes_included": false,
 //            "test": false,
 //            "token": "3988d",
 //            "total_discounts": "0.00",
-//            "total_discounts_set": {
+//            "total_discounts_set": {                    ss
 //        "shop_money": {
 //            "amount": "0.00",
 //                    "currency_code": "USD"
@@ -122,9 +122,9 @@
 //            "amount": "0.00",
 //                    "currency_code": "USD"
 //        }
-//    },
-//            "total_line_items_price": "12.00",
-//            "total_line_items_price_set": {
+//    },                                                   ss
+//            "total_line_items_price": "12.00",           ss
+//            "total_line_items_price_set": {              ss
 //        "shop_money": {
 //            "amount": "12.00",
 //                    "currency_code": "USD"
@@ -133,10 +133,10 @@
 //            "amount": "12.00",
 //                    "currency_code": "USD"
 //        }
-//    },
+//    },                                                   ss
 //            "total_outstanding": "0.00",
 //            "total_price": "95.18",
-//            "total_price_set": {
+//            "total_price_set": {                        ss
 //        "shop_money": {
 //            "amount": "95.18",
 //                    "currency_code": "USD"
@@ -145,9 +145,9 @@
 //            "amount": "95.18",
 //                    "currency_code": "USD"
 //        }
-//    },
+//    },                                                   ss
 //            "total_price_usd": "1.18",
-//            "total_shipping_price_set": {
+//            "total_shipping_price_set": {                 ss
 //        "shop_money": {
 //            "amount": "1.95",
 //                    "currency_code": "USD"
@@ -156,9 +156,9 @@
 //            "amount": "1.95",
 //                    "currency_code": "USD"
 //        }
-//    },
+//    },                                                      ss
 //            "total_tax": "1.23",
-//            "total_tax_set": {
+//            "total_tax_set": {                               ss
 //        "shop_money": {
 //            "amount": "1.23",
 //                    "currency_code": "USD"
@@ -167,7 +167,7 @@
 //            "amount": "1.23",
 //                    "currency_code": "USD"
 //        }
-//    },
+//    },                                                     ss
 //            "total_tip_received": "0.00",
 //            "total_weight": 0,
 //            "updated_at": "2022-07-10T22:50:46+00:00",
@@ -176,14 +176,14 @@
 //            "fulfillments": [],
 //            "line_items": [
 //    {
-//        "id": 122691,
-//            "admin_graphql_api_id": "gid://shopify/somethingelse",
+//        "id": 122691,                                                          nss
+//            "admin_graphql_api_id": "gid://shopify/somethingelse",               ss
 //            "fulfillable_quantity": 1,
 //            "fulfillment_service": "manual",
 //            "fulfillment_status": null,
 //            "gift_card": false,
 //            "grams": 0,
-//            "name": "That one product | Green",
+//            "name": "That one product | Green",        ss
 //            "origin_location": {
 //        "id": 329,
 //                "country_code": "US",

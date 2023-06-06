@@ -8,4 +8,5 @@ public class Money {
 
     @SerializedName("currency_code")
     private String currencyCode;
-}
+
+    }
