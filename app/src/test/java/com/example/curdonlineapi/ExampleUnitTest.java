@@ -4,6 +4,9 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+import com.example.curdonlineapi.models.Shop;
+import com.example.curdonlineapi.network.CurdApi;
+import com.example.curdonlineapi.network.OnSerivceApi;
 import com.google.gson.Gson;
 
 import java.io.IOException;

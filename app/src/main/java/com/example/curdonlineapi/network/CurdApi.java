@@ -1,4 +1,6 @@
-package com.example.curdonlineapi;
+package com.example.curdonlineapi.network;
+
+import com.example.curdonlineapi.network.OnSerivceApi;
 
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;

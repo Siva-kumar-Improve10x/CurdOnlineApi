@@ -1,4 +1,6 @@
-package com.example.curdonlineapi;
+package com.example.curdonlineapi.network;
+
+import com.example.curdonlineapi.models.Shop;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.example.curdonlineapi;
+package com.example.curdonlineapi.models;
 
 import com.google.gson.annotations.SerializedName;
 

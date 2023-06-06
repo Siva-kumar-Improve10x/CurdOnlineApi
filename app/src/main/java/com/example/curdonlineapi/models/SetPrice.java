@@ -1,5 +1,6 @@
-package com.example.curdonlineapi;
+package com.example.curdonlineapi.models;
 
+import com.example.curdonlineapi.models.Money;
 import com.google.gson.annotations.SerializedName;
 
 public class SetPrice {

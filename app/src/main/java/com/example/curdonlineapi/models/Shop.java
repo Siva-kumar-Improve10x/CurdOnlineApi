@@ -1,5 +1,8 @@
-package com.example.curdonlineapi;
+package com.example.curdonlineapi.models;
 
+import com.example.curdonlineapi.models.ClientDetails;
+import com.example.curdonlineapi.models.LineItems;
+import com.example.curdonlineapi.models.SetPrice;
 import com.google.gson.annotations.SerializedName;
 
 import java.util.List;
