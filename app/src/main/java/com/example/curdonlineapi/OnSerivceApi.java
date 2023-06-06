@@ -7,5 +7,5 @@ import retrofit2.http.GET;
 
 public interface OnSerivceApi {
     @GET("renukaTemplates")
-    Call<List<Shop>> getCurdDetails();
+    Call<List<Shop>> getApiDetails();
 }

@@ -25,7 +25,7 @@ public class ExampleUnitTest {
 
     public void getCurdData() throws IOException {
         OnSerivceApi onSerivceApi = new CurdApi().createApi();
-        Call<List<Shop>> call = onSerivceApi.getCurdDetails();
+        Call<List<Shop>> call = onSerivceApi.getApiDetails();
         List<Shop> products = call.execute().body();
         assertNotNull(products);
         assertFalse(products.isEmpty());

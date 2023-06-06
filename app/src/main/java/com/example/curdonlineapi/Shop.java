@@ -43,13 +43,12 @@ public class Shop {
     @SerializedName("closed_at")
     private String closedAt;
 
-    @SerializedName("confirmed")
     private Boolean confirmed;
 
     @SerializedName("created_at")
     private String createdAt;
 
-    @SerializedName("currency")
+
     private String currency;
 
     @SerializedName("current_subtotal_price")
@@ -97,7 +96,7 @@ public class Shop {
     @SerializedName("fulfillment_status")
     private String fulfillmentStatus;
 
-    @SerializedName("gateway")
+
     private String gateway;
 
     @SerializedName("landing_site")
@@ -109,16 +108,14 @@ public class Shop {
     @SerializedName("location_id")
     private String locationId;
 
-    @SerializedName("name")
+
     private String name;
 
-    @SerializedName("note")
     private String note;
 
     @SerializedName("note_attributes")
     private List<String> noteAttributes;
 
-    @SerializedName("number")
     private Integer number;
 
     @SerializedName("order_number")
@@ -142,7 +139,6 @@ public class Shop {
     @SerializedName("processing_method")
     private String processingMethod;
 
-    @SerializedName("reference")
     private String reference;
 
     @SerializedName("referring_site")
@@ -163,16 +159,13 @@ public class Shop {
     @SerializedName("subtotal_price_set")
     public SetPrice subtotalPriceSet;
 
-    @SerializedName("tags")
     private String tags;
 
     @SerializedName("taxes_included")
     private boolean taxesIncluded;
 
-    @SerializedName("test")
     private boolean test;
 
-    @SerializedName("token")
     private String token;
 
     @SerializedName("total_discounts")
@@ -223,7 +216,6 @@ public class Shop {
     @SerializedName("discount_applications")
     private List<String> discountApplications;
 
-    @SerializedName("fulfillments")
     private List<String> fulfillments;
 
     @SerializedName("line_items")
